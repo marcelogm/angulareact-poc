@@ -1,0 +1,1 @@
+export { AngularProvider } from './AngularProvider';
